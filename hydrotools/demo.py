@@ -1,3 +1,2 @@
-def demoprint():
-    print("Hello world from the demo (version B).")
-
+def hello_world():
+    print("Hello world.")
